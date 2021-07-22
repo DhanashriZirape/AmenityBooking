@@ -1,0 +1,6 @@
+module.exports = {
+
+    SET_CLEAR: 'SET_CLEAR',
+    SET_SEARCH_INPUT: 'SET_SEARCH_INPUT',
+    SET_FILTER_INPUT: 'SET_FILTER_INPUT'
+};

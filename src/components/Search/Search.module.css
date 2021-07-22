@@ -1,0 +1,20 @@
+.container {
+    display:flex;
+    padding: 0.4rem;
+    min-width: 180px;
+    border-radius: 0.4rem;
+    border: 1px solid gray;
+    max-width: 280px;
+    max-height: 30px;
+}
+
+.icon {
+    color: gray;
+    padding: 5px;
+}
+
+.searchBar{
+    border: none;
+    min-width: 240px;
+    padding: 5px;
+}

@@ -1,3 +1,12 @@
+# Objective
+Amenity booking for a society
+# Used technology
+
+React
+Redux
+Material UI
+Styling: CSS modules & styled components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

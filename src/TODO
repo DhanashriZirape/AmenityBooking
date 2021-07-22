@@ -1,0 +1,51 @@
+Admin Tab:
+Add new room
+remove room
+change room
+----------
+Book only upto 1 month
+-------
+search
+After consecutive 2 keypress search
+--------
+filter
+on clear load all
+multiple selection should work
+today is not defined
+5-6 am is not working
+
+-------
+My bookings
+Cancel booking
+show bookings
+----------
+days tab slider
+
+------
+Main tabss:
+1. booking
+2. My booking
+3. Admin
+----------
+Role assignment
+------------
+logo of site
+Carousel clickable items
+Header: nav items
+footer
+City: search city
+-----
+sort
+
+green: #4daa0b
+
+
+
+Get weather information and tell you may need to check court/ book other amenity.
+
+search : close button to clear search
+clear button not working on theme
+multiple filters not working
+on filter: multiple values displayed: tennis
+one booked slot is displaying for multiple days
+on search, booked slot is previously booked slot
